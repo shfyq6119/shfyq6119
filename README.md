@@ -1,5 +1,5 @@
 - 👋 Greetings!
-- 👀 I have just started learning Computer Science,
+- 👀 I have just started learning Computer Science
 - 💡 interested in Data Anayltics, Machine Learning/AI & Website Development
 - 🌱 I’m currently a student at 42 (Singapore)
 - 💞️ (Photo/Video)grapher/Freelance Trainer
