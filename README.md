@@ -1,7 +1,7 @@
 - 👋 Greetings!
 - 👀 I have just started learning Computer Science
-- 💡 interested in Data Anayltics, Machine Learning/AI & Website Development
-- 🌱 I’m currently a student at 42 (Singapore)
+- 💡 interested in Data Analytics, Machine Learning/AI & App/Website Development
+- 🫥 Blackholed at Level 3 (last project: fractol) in 42 (Singapore)
 - 💞️ (Photo/Video)grapher/Freelance Trainer
 
 <!---
